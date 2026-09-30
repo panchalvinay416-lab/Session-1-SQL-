@@ -1,0 +1,2 @@
+CREATE DATABASE music_streaming_db;
+USE music_streaming_db;
